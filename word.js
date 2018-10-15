@@ -5,7 +5,7 @@ var prompt = require("prompt");
 var letter = require("./letter");
 
 // make that bank of words
-var wordBank = ["superman", "wolverine", "spiderman", "wonder woman"];
+var wordBank = ["superman", "wolverine", "spiderman", "rogue"];
 
 
 // this is where the chosen word will go into from wordBank

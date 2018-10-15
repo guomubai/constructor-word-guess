@@ -2,7 +2,7 @@
 var inquirer = require("inquirer");
 var prompt = require("prompt");
 
-var wordBank = ["superman", "wolverine", "spiderman", "wonder woman"];
+var wordBank = ["superman", "wolverine", "spiderman", "rogue"];
 
 // choose a random word from wordBank
 var chosenWord = wordBank[Math.floor(Math.random() * wordBank.length)];
