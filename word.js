@@ -19,7 +19,7 @@ var letterInWord = [];
 
 // now we set out the constructor function that creates objects
 function Word(chosenWord, spaceHolder, letterInWord) {
-	this,chosenWord = chosenWord,
+	this.chosenWord = chosenWord,
 	this.spaceHolder = spaceHolder,
 	this.letterInWord = letterInWord
 };
